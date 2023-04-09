@@ -1,6 +1,6 @@
 # realworld_dataset_tools
 Тулзы для с помощью которых делается датасет: [real_world](https://huggingface.co/datasets/saintbyte/real_world)
-Лицензия у датасета: OpenRAIL
+Лицензия датасета: OpenRAIL
 ## Тулзы
 * [image_db](https://github.com/saintbyte/image_db) - для создания базы данных картинок,
 поиска дубликатов, удаления мелких картинок. 
